@@ -1,0 +1,41 @@
+h1{
+    color:PapayaWhip;
+}
+body{
+    background-color:royalblue;
+}
+p{
+    color: aliceblue;
+}
+h3{
+    color: chartreuse;
+}
+p{
+    color: whitesmoke;
+}
+a{
+    color: whitesmoke;
+}
+td{
+    color: gold;
+}
+
+a:link{
+text-decoration:none;
+}
+li{
+    color: aqua;
+}
+.neon {
+    color: floralwhite;
+    text-overflow:
+      0 0 5px white,
+      0 0 10px cyan,
+      0 0 20px mediumaquamarine,
+      0 0 40px salmon,
+      0 0 80px snow,
+      0 0 90px floralwhite,
+      0 0 100px blue,
+      0 0 150px magenta;
+  }
+  
