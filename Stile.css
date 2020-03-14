@@ -1,7 +1,9 @@
 h1{
-    color:royalblue;
-    text-align: center;
+    color:PapayaWhip;
 }
 body{
-    background-color:PapayaWhip;
+    background-color:royalblue;
+}
+p{
+    color: aliceblue;
 }
